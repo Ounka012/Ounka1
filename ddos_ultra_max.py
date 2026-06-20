@@ -2,7 +2,7 @@
 """
 ███████████████████████████████████████████████████████████████████████
 █                                                                     █
-█     🧠 AI-Powered Dynamic DDoS v1.0.0                                █
+█     🧠 AI-Powered Dynamic DDoS v1.0                                █
 █     🔥 Created by ouncopybara                                      █
 █     ⚠️  FOR AUTHORIZED TESTING ONLY                                █
 █                                                                     █
